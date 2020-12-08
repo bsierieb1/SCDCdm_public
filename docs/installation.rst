@@ -21,5 +21,5 @@ To install SCDCdm from source:
     
 Import SCDCdm in a Python session via::
 
-    import SCDCdm as scdcdm
+    import scdcdm as scdcdm
 
